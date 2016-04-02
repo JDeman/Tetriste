@@ -7,8 +7,12 @@ public class Game {
     private GameBoard grid;
     private Regle regle;
     private Score score;
-    private int difficulty // entre 1 et 3
+    private int difficulty; // entre 1 et 3
 
+
+    public Game(int lvl){
+        th
+    }
 
     public void showFinalScore(Score score){
         score.showScore()
