@@ -15,6 +15,21 @@ public class Tetriste {
             LPiece yo = new LPiece(4,5);
             System.out.println("position is x = " + yo.getxPos() + " Y = " + yo.getyPos());
 
+
+            /**************************************************/
+            /**************************************************/
+
+            /*Menu choices = new Menu();
+                if choice = 1
+                    Score scores = new Score()
+                if choice = 2
+                    Game jeu = new Game()
+
+                if choice = 3
+                    exit
+
+
+
         }
 
 }
